@@ -6,7 +6,7 @@ description: Cybatica Sample Project
 
 This sample project gives you the boilerplate code you need to connect to an iOS device device and start streaming data using the Cybatica app with Apple Swift and XCode.&#x20;
 
-Ensure the device is set to Develop mode.
+**Ensure the device is set to Develop mode.**
 
 The sample application implemented in the project has very simple functionalities:
 
@@ -17,7 +17,7 @@ The sample application implemented in the project has very simple functionalitie
 * Selecting the iOS device again disconnect the device
 * When all devices are disconnected the app restarts and delete all data.&#x20;
 
-How to initially set up Cybatica for development.
+**How to initially set up Cybatica for development.**
 
 * Clone / download this repository.
 * Open the sample project in XCode.

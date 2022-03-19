@@ -8,12 +8,10 @@ description: >-
 
 **What you should know:** Motion sickness afflicts many users when in Virtual Reality. Known also as cybersickness, there are a number of theories as to why the uncomfortableness occurs.
 
-
-
 Here are a couple of examples of succinct overviews from products with really great docs:
 
 > * Sensory Conflict theory.
->   * a mismatch of information between vision and vestibular systems.&#x20;
+>   * a mismatch of information between vision and vestibular systems.
 > * Vection.
 >   * an illusion about being in motion; e.g. sitting on a stationary train while observing an adjacent train suddenly moving.
 > * Poison theory
@@ -25,7 +23,7 @@ Research has shown that “_Physiological indicators such as heart rate, respira
 
 > At iVERG we have leveraged the research to create a patented application to predict the onset of cybersickness during your Virtual Reality experience. This means that you will be alerted to the possibility of suffering from cybersickness **before** you even feel uncomfortable.
 
-> An Empatica sensor bracelet transmits secure biodata wirelessly to Cybatica.&#x20;
+> An Empatica sensor bracelet transmits secure biodata wirelessly to Cybatica.
 >
 > Once a threshold value has been reached, determined by our patented cybersickness application, you will be alerted and advised to terminate your Virtual Reality experience.
 
@@ -49,12 +47,10 @@ There are 3 options to view.
 * Option 3: Real-time data graphs of BVP, EDA and TEMPERATURE are displayed
 {% endhint %}
 
-![](.gitbook/assets/cybatica2.png)
+![Cybatica interface](.gitbook/assets/cybatica2.png)
 
 \* _To learn more about these values, visit our medical information page._
 
+As more users enter the VR metaverse, Cybatica gives peace of mind in maintaining a comfortable experience.
 
-
-As more users enter the VR metaverse, Cybatica gives peace of mind in maintaining a comfortable experience.&#x20;
-
-Your body knows when it’s had enough. Cybatica is that friendly reminder to stop.
+Your body knows when it’s had enough. Cybatica is the friendly reminder to stop.

@@ -8,15 +8,9 @@ description: >-
 
 **Introduction**
 
-&#x20;****&#x20;
-
 Medical researchers often need to confirm the reliability of the physiological data displayed by biodata devices. The following experiment is supported by prior research published in an international peer-reviewed journal.
 
-&#x20;
-
 **Required**
-
-&#x20;****&#x20;
 
 o   Windows or Apple Mac computer
 
@@ -32,27 +26,17 @@ o   Cybatica app
 
 o   iPhone 13 Pro
 
-&#x20;
+All items can be loaned upon request to our Lead Programmer (email: lp@iverg.com).
 
-o   All items can be loaned upon request to our Lead Programmer (email:&#x20;
+Please state your Companies House ID code.&#x20;
 
-o   lp@iverg.com).
-
-o   Please state your Companies House ID code.&#x20;
-
-o   Available only in UK.
-
-&#x20;
+Available only in UK.
 
 **Procedure**
-
-&#x20;
 
 Follow the procedure as shown below.
 
 It is advised to randomize the use PC and VR as initial experience.
-
-&#x20;
 
 1\.     Sit down and relax (5 minutes)
 
@@ -74,11 +58,11 @@ It is advised to randomize the use PC and VR as initial experience.
 
 10\.  To compare data you need to calculate the self-report SSQ values.
 
-o   Obtain values a^’ and b^’ and c^’ from the survey.
-
 &#x20;
 
-Calculate the following symptoms scores:
+Calculate the following symptoms scores.
+
+You obtain values a^’ and b^’ and c^’ from the survey.
 
 * Nausea Score = a^'\* 9.54
 * Oculomotor Score = b^'\* 7.58
@@ -88,8 +72,6 @@ Calculate the SSQ score:
 
 * SSQ = (a^'+b^'+c') \* 3.74
 
-&#x20;
-
 **Compare the SSQ score with the OCS value displayed on the Cybatica app.**
 
 ![A screenshot of a video game
@@ -98,17 +80,11 @@ Description automatically generated with medium confidence](.gitbook/assets/poly
 
 Figure 1. Polyword in PC and VR
 
-&#x20;
-
 ![Diagram
 
 Description automatically generated](.gitbook/assets/expt.png)
 
 Figure 2. Experiment procedure
-
-&#x20;
-
-&#x20;
 
 ![Chart
 

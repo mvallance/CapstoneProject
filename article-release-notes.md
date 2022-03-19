@@ -1,28 +1,20 @@
-# Article - release notes
+---
+description: Cybatica update
+---
 
-&#x20;****&#x20;
+# Article - release notes
 
 **Release notes (internal use only)**
 
-&#x20;
-
 Update Cybatica to use the new features, and test the app against API changes.
 
-&#x20;
 
-&#x20;
 
 **Overview**
 
-&#x20;
-
 The Cybatica SDK provides support to develop additional capabilities when connected to the  iPhone 13 Pro running iOS 14.&#x20;
 
-&#x20;
-
 The SDK comes bundled with Xcode 12; also available from the Mac App Store.&#x20;
-
-&#x20;
 
 For information on the compatibility requirements, see document XYZ (link).
 
@@ -30,14 +22,10 @@ For information on the compatibility requirements, see document XYZ (link).
 
 **General**
 
-&#x20;****&#x20;
-
 **Important**
 
 | Updating the iPhone 13 Pro  to iOS 14 from previous versions of iOS may take significantly longer than expected. Data loss could occur if the update is interrupted.  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-&#x20;
 
 **Known Issues**
 
@@ -55,4 +43,4 @@ For information on the compatibility requirements, see document XYZ (link).
 
 •   The userInfo parameter can now be passed to Account Authentication.
 
-•   The graph design colors have been change dot look sharper under low light.
+•   The graph design colors have been changed to look sharper under low light.
