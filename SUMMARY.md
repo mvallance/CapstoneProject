@@ -1,6 +1,11 @@
 # Table of contents
 
 * [Meeting Notes](README.md)
+* [Resume](resume.md)
+* [Knowledge Base (internal use ONLY)](knowledge-base-internal-use-only.md)
+* [Tutorial](tutorial.md)
+* [Article - release notes](article-release-notes.md)
+* [Product roadmap](product-roadmap.md)
 * [Release Notes](release-notes.md)
 
 ## Daily Syncs
