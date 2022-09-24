@@ -12,7 +12,7 @@ Update Cybatica to use the new features, and test the app against API changes.
 
 **Overview**
 
-The Cybatica SDK provides support to develop additional capabilities when connected to the  iPhone 13 Pro running iOS 14.&#x20;
+The Cybatica SDK provides support to develop additional capabilities when connected to the  iPhone 14 Pro running iOS 14.&#x20;
 
 The SDK comes bundled with Xcode 12; also available from the Mac App Store.&#x20;
 
